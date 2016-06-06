@@ -1,5 +1,6 @@
-package chapter15;
+//U10416023
 
+//Import the api needed
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
@@ -25,8 +26,8 @@ public class BounceBallControl extends Application {
     });
 
     // Create a scene and place it in the stage
-    Scene scene = new Scene(ballPane, 250, 150);
-    primaryStage.setTitle("BounceBallControl"); // Set the stage title
+    Scene scene = new Scene(ballPane, 750, 500);
+    primaryStage.setTitle("U10416023_BounceBallControl­"); // Set the stage title
     primaryStage.setScene(scene); // Place the scene in the stage
     primaryStage.show(); // Display the stage
 
